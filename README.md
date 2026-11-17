@@ -1,79 +1,48 @@
-✨ Kiran Riaz | Personal Portfolio Website
+✨ Kiran Riaz | Personal Portfolio
 
-A Creative Space to Showcase My Skills, Projects & Journey
+🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio repository! This website represents my introduction, technical interests, skills, and web development journey. It is designed with a clean layout and simple navigation to provide visitors with a smooth browsing experience.
+Welcome to my personal portfolio! This website showcases my introduction, skills, projects, and journey in web development.
 
 ---
 
-🌐 Project Overview
+👩‍💻 About Me
 
-The Personal Portfolio Website is a front-end web development project created using HTML5 and CSS3. It serves as a digital introduction where visitors can explore my profile, learn about my skills, view my projects, and find contact information.
+I am Kiran Riaz, a Computer Science student from Multan, Pakistan. I am passionate about technology, web design, and creating clean and user-friendly websites.
 
-🚀 Key Features
+🚀 Features
 
-- Home Section: A welcoming introduction with a personal profile.
-- About Me: Information about my background and interests.
-- Skills Section: An overview of technical skills and tools.
-- Projects Section: A showcase of selected web development projects.
-- Contact Section: A contact form for communication.
-- Navigation Bar: Easy navigation between different sections.
-- Social Links: Space for connecting through social platforms.
-- Clean UI: Simple, organized, and visually appealing design.
+- 🏠 Home – Personal introduction
+- 👩 About – Information about me
+- 💡 Skills – Technical skills
+- 📁 Projects – My work and practice projects
+- 📩 Contact – Get in touch
 
-🛠️ Technologies & Tools
+🛠️ Technologies Used
 
-Technology| Purpose
-HTML5| Website structure and content
-CSS3| Styling, layout, and visual design
-Visual Studio Code| Code editor
-GitHub| Version control and project hosting
+- HTML5 – Website Structure
+- CSS3 – Styling and Design
 
-📂 Project Structure
+📂 Project Files
 
-My-Portfolio/
-│
-├── index.html
-├── style.css
-└── README.md
+- "index.html" – Main webpage
+- "style.css" – Website styling
+- "README.md" – Project documentation
 
-💻 Getting Started
+🎯 Purpose
 
-Follow these steps to run the project on your computer:
+Created to practice front-end development, improve my coding skills, and build my online presence.
 
-1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code.
-3. Make sure both HTML and CSS files are in the same folder.
-4. Open "index.html" in your web browser.
-5. Explore the portfolio website.
+---
 
-🎯 Project Goals
-
-- Practice front-end web development.
-- Improve HTML and CSS skills.
-- Understand website structure and styling.
-- Build a personal online presence.
-- Showcase learning progress through practical projects.
-
-👩‍💻 About the Author
+👩‍💻 Developed By
 
 Kiran Riaz
 
-Computer Science Student
-Multan, Pakistan
+Computer Science Student | Aspiring Web Developer
 
-Interested in Web Design, Front-End Development, and Technology.
-
-📬 Connect With Me
-
-- GitHub: "Kiran-programs" (https://github.com/Kiran-programs)
+📍 Multan, Pakistan
 
 ---
 
-⭐ Support
-
-If you find this project interesting, feel free to explore the repository and share your feedback.
-
-Thank you for visiting my portfolio!
-
-Designed and developed with creativity and learning in mind.
+⭐ Thank you for visiting my portfolio!
