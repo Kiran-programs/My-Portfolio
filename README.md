@@ -1,48 +1,46 @@
-✨ Kiran Riaz | Personal Portfolio
+# ✨ KIRAN RIAZ
+### **PERSONAL PORTFOLIO WEBSITE**
 
-🌐 Personal Portfolio Website
-
-Welcome to my personal portfolio! This website showcases my introduction, skills, projects, and journey in web development.
-
----
-
-👩‍💻 About Me
-
-I am Kiran Riaz, a Computer Science student from Multan, Pakistan. I am passionate about technology, web design, and creating clean and user-friendly websites.
-
-🚀 Features
-
-- 🏠 Home – Personal introduction
-- 👩 About – Information about me
-- 💡 Skills – Technical skills
-- 📁 Projects – My work and practice projects
-- 📩 Contact – Get in touch
-
-🛠️ Technologies Used
-
-- HTML5 – Website Structure
-- CSS3 – Styling and Design
-
-📂 Project Files
-
-- "index.html" – Main webpage
-- "style.css" – Website styling
-- "README.md" – Project documentation
-
-🎯 Purpose
-
-Created to practice front-end development, improve my coding skills, and build my online presence.
+Welcome to my personal portfolio! A place to explore my skills, projects, and web development journey.
 
 ---
 
-👩‍💻 Developed By
+## 👩‍💻 **ABOUT ME**
 
-Kiran Riaz
+I am **Kiran Riaz**, a Computer Science student from Multan, Pakistan. I am passionate about web design, technology, and creating beautiful websites.
 
-Computer Science Student | Aspiring Web Developer
+## 🚀 **MY FEATURES**
+
+- 🏠 **Home** – Personal Introduction
+- 👩‍💻 **About** – About Me
+- 💡 **Skills** – Technical Skills
+- 📂 **Projects** – My Work
+- 📩 **Contact** – Get in Touch
+
+## 🛠️ **TECHNOLOGIES USED**
+
+- **HTML5**
+- **CSS3**
+
+## 📁 **PROJECT STRUCTURE**
+
+- `index.html` – Main Website
+- `style.css` – Website Design
+- `README.md` – Documentation
+
+## 🎯 **PROJECT GOAL**
+
+To improve my front-end development skills and create a professional online presence.
+
+---
+
+## 🌷 **DEVELOPED BY**
+
+### **KIRAN RIAZ**
+**Computer Science Student**
 
 📍 Multan, Pakistan
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+### ⭐ **THANK YOU FOR VISITING MY PORTFOLIO!**
